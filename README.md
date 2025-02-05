@@ -1,14 +1,14 @@
 ### Hi Developers 👋
  
 [![Linkedin Badge](https://img.shields.io/badge/-arunv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arun-v-214477291)](https://www.linkedin.com/in/arun-v-214477291)
-[![Website Badge](https://img.shields.io/badge/WebSite-Poonam-green)](https://poonamchauhan229.github.io/Portfolio_Website/)
+
  
 I'm
 Full Stack Solution Architect
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB,Mysql)
  
  
-![Visitor Count](https://profile-counter.glitch.me/poonamchauhan229/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/arunv369/count.svg)
  
 <div>
   <h4>🏆 Github Profile Trophy</h4>
